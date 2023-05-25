@@ -1,2 +1,2 @@
-# FinancialTrading
-Hands-On Financial Trading with Python
+# Elephant
+Project for Python course
